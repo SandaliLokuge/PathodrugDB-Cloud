@@ -4,3 +4,10 @@ PathoDrugDB is a database designed to fetch detailed information on potential th
             It incorporates <a href="http://www.mgc.ac.cn/VFs/">Virulence Factor Database</a>, <a href="https://go.drugbank.com/">DrugBank</a>, and <a href="https://card.mcmaster.ca/">Comprehensive Antibiotic Resistance Database</a> with the pre-computed results from our in-house pipeline to provide a complete review of the drug targets. 
             Our in-house pipeline is based on a subtractive genomics approach which follows a series of computational steps to eliminate host toxicity and shortlist genes that can serve as putative targets. This database is freely accessible to researchers to explore the pathogenic bacterial drug targets extensively.
             
+## Entitiy Relation Diagarm of the database
+
+<img src="https://github.com/SandaliLokuge/PathodrugDB-Cloud/blob/main/ERD.png" alt="Alt Text" style="width:50%; height:auto;">
+
+## Application architecture
+
+<img src="https://github.com/SandaliLokuge/PathodrugDB-Cloud/blob/main/architecture.png" alt="Alt Text" style="width:50%; height:auto;">
