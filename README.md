@@ -6,8 +6,8 @@ PathoDrugDB is a database designed to fetch detailed information on potential th
             
 ## Entitiy Relation Diagarm of the database
 
-<img src="https://github.com/SandaliLokuge/PathodrugDB-Cloud/blob/main/ERD.png" alt="Alt Text" style="width:50%; height:auto;">
+<img src="https://github.com/SandaliLokuge/PathodrugDB-Cloud/blob/main/ERD.png" alt="Alt Text" style="width:75%; height:auto;">
 
 ## Application architecture
 
-<img src="https://github.com/SandaliLokuge/PathodrugDB-Cloud/blob/main/architecture.png" alt="Alt Text" style="width:50%; height:auto;">
+<img src="https://github.com/SandaliLokuge/PathodrugDB-Cloud/blob/main/architecture.png" alt="Alt Text" style="width:75%; height:auto;">
